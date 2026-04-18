@@ -1,0 +1,2 @@
+web3>=6.0.0
+slither-analyzer>=0.9.0
